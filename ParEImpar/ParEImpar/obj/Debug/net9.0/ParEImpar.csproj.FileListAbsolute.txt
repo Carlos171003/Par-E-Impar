@@ -1,0 +1,15 @@
+C:\Users\carlo\Downloads\Par E Impar\ParEImpar\ParEImpar\bin\Debug\net9.0\ParEImpar.exe
+C:\Users\carlo\Downloads\Par E Impar\ParEImpar\ParEImpar\bin\Debug\net9.0\ParEImpar.deps.json
+C:\Users\carlo\Downloads\Par E Impar\ParEImpar\ParEImpar\bin\Debug\net9.0\ParEImpar.runtimeconfig.json
+C:\Users\carlo\Downloads\Par E Impar\ParEImpar\ParEImpar\bin\Debug\net9.0\ParEImpar.dll
+C:\Users\carlo\Downloads\Par E Impar\ParEImpar\ParEImpar\bin\Debug\net9.0\ParEImpar.pdb
+C:\Users\carlo\Downloads\Par E Impar\ParEImpar\ParEImpar\obj\Debug\net9.0\ParEImpar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlo\Downloads\Par E Impar\ParEImpar\ParEImpar\obj\Debug\net9.0\ParEImpar.AssemblyInfoInputs.cache
+C:\Users\carlo\Downloads\Par E Impar\ParEImpar\ParEImpar\obj\Debug\net9.0\ParEImpar.AssemblyInfo.cs
+C:\Users\carlo\Downloads\Par E Impar\ParEImpar\ParEImpar\obj\Debug\net9.0\ParEImpar.csproj.CoreCompileInputs.cache
+C:\Users\carlo\Downloads\Par E Impar\ParEImpar\ParEImpar\obj\Debug\net9.0\ParEImpar.sourcelink.json
+C:\Users\carlo\Downloads\Par E Impar\ParEImpar\ParEImpar\obj\Debug\net9.0\ParEImpar.dll
+C:\Users\carlo\Downloads\Par E Impar\ParEImpar\ParEImpar\obj\Debug\net9.0\refint\ParEImpar.dll
+C:\Users\carlo\Downloads\Par E Impar\ParEImpar\ParEImpar\obj\Debug\net9.0\ParEImpar.pdb
+C:\Users\carlo\Downloads\Par E Impar\ParEImpar\ParEImpar\obj\Debug\net9.0\ParEImpar.genruntimeconfig.cache
+C:\Users\carlo\Downloads\Par E Impar\ParEImpar\ParEImpar\obj\Debug\net9.0\ref\ParEImpar.dll
