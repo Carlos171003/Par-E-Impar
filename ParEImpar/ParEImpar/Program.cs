@@ -7,7 +7,14 @@ class Program
         while (true) // Bucle infinito hasta que el usuario escriba "salir"
         {
             Console.WriteLine("Dame un valor (o escribe 'salir' para terminar):");
-            string input = Console.ReadLine();
+            string? input = Console.ReadLine(); // Permitimos que input sea anulable
+
+            // Verificamos si input es null antes de proceder
+            if (input == null)
+            {
+                Console.WriteLine("No se ingresó ningún valor. Inténtalo de nuevo.");
+                continue; // Pasamos a la siguiente iteración del bucle
+            }
 
             // Si el usuario escribe "salir", rompemos el bucle
             if (input.ToLower() == "salir")
